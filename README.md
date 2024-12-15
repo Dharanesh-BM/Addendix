@@ -91,3 +91,13 @@ npm run build
 This will generate a build directory with the production-ready files.
 
 For any questions or issues, please refer to the project documentation or contact the project maintainers.
+
+# Screenshots of the application 
+## SignIn 
+![Sign In](Images/signin.jpeg)
+
+## SignUp 
+![Sign Up](Images/signup.jpeg)
+
+## AdminDashboard
+![Admin Dasboard](Images/admin \dashboard.jpeg)
