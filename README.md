@@ -97,7 +97,7 @@ For any questions or issues, please refer to the project documentation or contac
 ![Sign In](Images/signin.jpeg)
 
 ## SignUp 
-![Sign Up](Images/signup.jpeg)
+![Sign Up](Images/SignUp.jpeg)
 
 ## AdminDashboard
-![Admin Dasboard](Images/admin \dashboard.jpeg)
+![Admin Dasboard](Images/AdminDashboard.jpeg)
